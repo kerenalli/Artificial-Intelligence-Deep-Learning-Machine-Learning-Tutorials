@@ -21,8 +21,8 @@ Finally, it is **YOUR** help I will seek to make it more useful and less boring,
    * [theano](#theano-tutorials)
    * [keras](#keras-tutorials)
    * [caffe](#deep-learning-misc)
-   * [Torch/Lua]()
-   * [MXNET]()
+   * [Torch/Lua](https://github.com/awoziji/PyTorch-Tutorial)
+   * [MXNET](https://github.com/awoziji/incubator-mxnet)
    
 * [scikit-learn](#scikit-learn)
 * [statistical-inference-scipy](#statistical-inference-scipy)
